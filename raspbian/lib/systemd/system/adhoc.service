@@ -1,0 +1,9 @@
+Descripion=AdHoc WiFi
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/bin/bash /boot/adhoc.sh
+
+[Install]
+WantedBy=multi-user.target
