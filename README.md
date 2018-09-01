@@ -28,4 +28,5 @@ https://www.raspberrypi.org/forums/viewtopic.php?t=18771
 ```
 raspistill -o test2.jpg 
 ```
-
+### camera GUI
+https://elinux.org/RPi-Cam-Web-Interface#Basic_Installation
